@@ -5,6 +5,7 @@ This project enables content creators and educators to mint, sell, and earn roya
 
 ## Contract Address
 0x6EBfB4B23638930968ce593EdF35F663953Dca37
+![image](https://github.com/user-attachments/assets/2508daea-ae34-4b4b-a678-05679021eabc)
 
 ## Project Vision
 Our vision is to create a decentralized ecosystem that empowers educators and creators by providing a perpetual revenue stream for their digital study aids. By leveraging blockchain technology and NFTs, we aim to revolutionize the educational content marketplace by ensuring transparency, fairness, and traceability.
